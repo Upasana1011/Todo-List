@@ -1,0 +1,34 @@
+{
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+      "gamename": "silky",
+      "gameauthor": "qwerty",
+      "gametags": "siljy",
+      "gameprice": "67",
+      "forkids": "on",
+      "gamedesc": "fghjnlml,hj",
+      "gamerating": "two",
+      "id": 2
+    },
+    {
+      "gamename": "ludo",
+      "gameauthor": "sonali",
+      "gametags": "fcgvb",
+      "gameprice": "567",
+      "forkids": "on",
+      "gamedesc": "it is a game",
+      "gamerating": "three",
+      "id": 3
+    }
+  ]
+}
